@@ -1,0 +1,74 @@
+h1 {
+  color:red neon;
+  font-family:'Liu Jian Mao Cao', cursive;
+}
+p {
+  color:orange;
+}
+body {
+  background-color:rgba(21, 255, 0, 0.4);
+  font-family:'Mansalva', cursive;
+  margin:0;
+}
+
+navigation-bar {
+  background-color:#00dd9b;
+  height:70px;
+}
+
+
+navigation-bar a{
+ color: #00d4ff;
+  font-size:30px
+   background-color:#ff9900;
+  padding:10px;
+  margin-left: 10px;
+}
+
+navigation-bar a:hover {
+  color: purple;
+  font-size: 40px;
+     background-color: blue;
+  padding: 10px;
+  transition: 1s;
+}
+
+
+.landing h1 {
+  background-color:rgba(221, 221, 221, 0.26);
+  height:70vh;
+  width:220vh;
+  text-align: center;
+  background-image: url("https://media1.tenor.com/images/de8fc4c3dd71ae52b02e4ad029159294/tenor.gif?itemid=15144049");
+  background-color:blue;
+  text-shadow:0 0 3px #FF0000;
+}
+.about h2 {
+  color:#32a852;
+}
+about a {
+  color:#3ca832;
+  background-color:o#cf34eb;
+}
+.work {
+  background-color: #abeb34;
+  height:350;
+}
+.sub-section {
+  background-color:rgba(255, 59, 0, 0.52);
+  width: 33% height: 150px float:left text-aligin
+}
+sub-section img {
+  height: 100px;
+  width:100px;
+}
+.news {
+  background-color: #eba134;
+  background-image: url("https://t1.rbxcdn.com/d64e773390eb0ebe598567fb72280f37");
+  background-position: center height:350;
+  background-size:cover;
+}
+.contact {
+  background-color: #eb4034;
+  height:100px;
+}

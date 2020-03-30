@@ -1,0 +1,17 @@
+{
+ "name": "my -first-portfolio",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "c7ca1882-d377-65c7-d386-5d02cf8e0efb",
+   "pageId": "c7ca1882-d377-65c7-d386-5d02cf8e0efb",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "8ab89cdb-ada0-000e-bcda-f0de6fa4f042",
+   "pageId": "8ab89cdb-ada0-000e-bcda-f0de6fa4f042",
+   "type": "page"
+  }
+ ]
+}
